@@ -15,9 +15,7 @@ Currently, I am expanding my expertise by taking the Functional Software Testing
 
 📄 Check out my Resume (Add your actual resume link here)
 
-🎵 Hobbies & Interests
-🎹 Playing the piano – I love creating music and expressing creativity through melodies.
-🏔️ Hiking – Exploring nature, climbing new heights, and embracing adventure.
+
 ---
 
 ### 🤝 Социальные сети:
