@@ -1,13 +1,23 @@
-# Привет, меня зовут Артем!
+# 👋 Hello, and Welcome!
+
+I'm Aysel and I am a Software QA Engineer. This is my personal portfolio showcasing web and mobile tests I created during my learning journey. 🚀
+
+I am passionate about quality assurance, ensuring smooth user experiences, and mastering manual & automated testing techniques. Here, you'll find my projects, test cases, and automation scripts that reflect my progress and dedication.
+
+Stay tuned for exciting updates! ✨
 
 ---
 
-### 👨‍💻 Обо мне:
+### 👨‍💻 About Me
+I have experience working as an IT Business Analyst and QA Manual Engineer at the leading bank in Azerbaijan. My background has given me a deep understanding of software development, testing, and ensuring high-quality user experiences.
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 158.000 человек. Зв время преподавтаельсккой деятельности обучил более 10.000 студентов на разных платформах.
+Currently, I am expanding my expertise by taking the Functional Software Testing course by Artsiom Rusau. In addition, I am diving into test automation using Java and Python, aiming to enhance my skills in automated testing frameworks.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+📄 Check out my Resume (Add your actual resume link here)
 
+🎵 Hobbies & Interests
+🎹 Playing the piano – I love creating music and expressing creativity through melodies.
+🏔️ Hiking – Exploring nature, climbing new heights, and embracing adventure.
 ---
 
 ### 🤝 Социальные сети:
