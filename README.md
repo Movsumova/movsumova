@@ -18,16 +18,15 @@ Currently, I am expanding my expertise by taking the Functional Software Testing
 
 ---
 
-### 🤝 Социальные сети:
+### 📬 Get in Touch  
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
+You can reach out to me through the following platforms:  
+
+- **💼 LinkedIn:** [https://www.linkedin.com/in/aysel-fattahova-10606a267/](#)  
+- **✉️ Gmail:** [ayselmovsumova94@gmail.com](mailto:your.email@gmail.com)  
+- **💬 Telegram:** [@aisel_2303](https://t.me/YourTelegramUsername)  
+
+Feel free to connect—I’m always open to networking, discussions, and exciting opportunities! 🚀 
 
 ---
 
