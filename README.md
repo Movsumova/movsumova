@@ -13,7 +13,7 @@ I have experience working as an IT Business Analyst and QA Manual Engineer at th
 
 Currently, I am expanding my expertise by taking the Functional Software Testing course by Artsiom Rusau. In addition, I am diving into test automation using Java and Python, aiming to enhance my skills in automated testing frameworks.
 
-📄 Check out my Resume (Add your actual resume link here)
+📄 Check out my Resume (https://drive.google.com/file/d/10i7UNYqJ9W94BreyYKILYUw2dUmZD4Oa/view?usp=sharing)
 
 
 ---
