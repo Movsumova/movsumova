@@ -23,12 +23,52 @@ Currently, I am expanding my expertise by taking the Functional Software Testing
 You can reach out to me through the following platforms:  
 
 - **💼 LinkedIn:** [https://www.linkedin.com/in/aysel-fattahova-10606a267/](#)  
-- **✉️ Gmail:** [ayselmovsumova94@gmail.com](mailto:your.email@gmail.com)  
-- **💬 Telegram:** [@aisel_2303](https://t.me/YourTelegramUsername)  
+- **✉️ Gmail:** [ayselmovsumova94@gmail.com](mailto:your.email@gmail.com)  - **💬 Telegram:** [@aisel_2303](https://t.me/YourTelegramUsername)  
 
 Feel free to connect—I’m always open to networking, discussions, and exciting opportunities! 🚀 
 
 ---
+
+## 🛠️ Tools & Technologies  
+
+### 🚀 Project Management  
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![YouTrack](https://img.shields.io/badge/-YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
+![Qase](https://img.shields.io/badge/-Qase-673AB7?style=for-the-badge)
+
+### 🎨 Design & Prototyping  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🧪 Development & Testing  
+![Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/-SoapUI-0F6CBF?style=for-the-badge)
+
+### 📱 Mobile Development  
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+
+### 🌐 Networking & Debugging  
+![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-000000?style=for-the-badge)
+![Fiddler](https://img.shields.io/badge/-Fiddler-009688?style=for-the-badge)
+![Proxyman](https://img.shields.io/badge/-Proxyman-795548?style=for-the-badge)
+
+### 🗄️ Databases  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🖥️ Programming & Scripting  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 💻 Code Editors  
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
 
 ### 📁 Тестовая документация:
 
@@ -53,45 +93,4 @@ Feel free to connect—I’m always open to networking, discussions, and excitin
 
 ---
 
-### 📱 Тестирование мобильных приложений:
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
-  <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
-</div>
-
-
----
-
-### 💾 Работа с данными:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-</div>
-
----
-
-### ✏️ Работа с кодом:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  
-</div>
-
----
-
-<!-- ### 💻 Пройденные курсы:
-
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-
---- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
