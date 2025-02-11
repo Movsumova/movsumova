@@ -112,6 +112,16 @@ Feel free to connect—I’m always open to networking, discussions, and excitin
 
 
 ---
+## 📬 Get in Touch  
+
+You can reach out to me through the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aysel-fattahova-10606a267/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayselmovsumova94@gmail.com)  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aisel_2303)  
+
+💡 Feel free to connect—I’m always open to networking, discussions, and exciting opportunities! 🚀
+
 
 ### 📬 Get in Touch  
 
