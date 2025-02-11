@@ -13,57 +13,9 @@ I have experience working as an IT Business Analyst and QA Manual Engineer at th
 
 Currently, I am expanding my expertise by taking the Functional Software Testing course by Artsiom Rusau. In addition, I am diving into test automation using Java and Python, aiming to enhance my skills in automated testing frameworks.
 
-<<<<<<< HEAD
-📄 Check out my Resume (https://drive.google.com/file/d/10i7UNYqJ9W94BreyYKILYUw2dUmZD4Oa/view?usp=sharing)
-=======
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Me</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
-            padding: 50px;
-        }
-        h2 {
-            color: #333;
-        }
-        .btn {
-            display: block;
-            width: 250px;
-            padding: 15px;
-            margin: 10px auto;
-            font-size: 18px;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            text-decoration: none;
-        }
-        .linkedin { background-color: #0077b5; }
-        .telegram { background-color: #0088cc; }
-        .gmail { background-color: #d14836; }
-    </style>
-</head>
-<body>
-
-    <h2>📬 Get in Touch</h2>
-
-    <a class="btn linkedin" href="https://www.linkedin.com/in/aysel-fattahova-10606a267/" target="_blank">💼 LinkedIn</a>
-    <a class="btn telegram" href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">💬 Telegram</a>
-    <a class="btn gmail" href="@aisel_2303>✉️ Gmail</a>
-
-</body>
-</html>
-
-Feel free to connect—I’m always open to networking, discussions, and exciting opportunities! 🚀 
 
 ---
 
