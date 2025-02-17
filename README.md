@@ -72,6 +72,15 @@ You can reach out to me through the following platforms:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
+## 📂 Test Artifacts  
+
+🔹 [**Webshop testing**](https://github.com/Movsumova/web)  
+🔹 [**Documentation**](https://github.com/Movsumova/docs)  
+🔹 [**API testing via Postman**](https://github.com/Movsumova/api)  
+🔹 [**Work with Database**](https://github.com/Movsumova/database)  
+🔹 [**Mobile testing**](https://github.com/Movsumova/mobile)  
+🔹 [**Replacing data with Charles Proxy**](https://github.com/Movsumova/charlesproxy)  
+🔹 [**Bash**](https://github.com/Movsumova/git_bash)  
 
 
 
