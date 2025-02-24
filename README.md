@@ -15,7 +15,7 @@ Currently, I am expanding my expertise by taking the Functional Software Testing
 
 🌍 Right now I live in the **USA** and I am **open to work**!   
 
-📄 **[Check out my resume](https://drive.google.com/file/d/10i7UNYqJ9W94BreyYKILYUw2dUmZD4Oa/view?usp=drive_link)** 
+📄 **[Check out my resume](https://drive.google.com/file/d/13pLKePnqEvRPzJ31laqd-hmyHtBYZ_uQ/view?usp=sharing)** 
 
 ## 📬 Get in Touch  
 
